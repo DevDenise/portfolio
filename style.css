@@ -298,7 +298,8 @@ form .btn2{
     cursor: pointer;
 }
 .copyright{
-    width: 100%;text-align: center;
+    width: 100%;
+    text-align: center;
     padding: 25px 0;
     background: #262626;
     font-weight: 300;
@@ -307,6 +308,8 @@ form .btn2{
 .copyright i{
     color: #b09244;
 }
+
+
 /* -----------------RESPONSIVE------------- */
 nav .fa-solid{
     display: none;
